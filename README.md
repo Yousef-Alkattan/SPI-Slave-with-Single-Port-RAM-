@@ -87,7 +87,7 @@ This module implements a Serial Peripheral Interface (SPI) slave system with int
 
 **Elaborated Circuit**
 
-![Elaborated Circuit](./Elaborated%20Circuit.png)
+![Elaborated Circuit](./Elaborated_Circuit.png)
 
 **Synthesized Circuit**
 
