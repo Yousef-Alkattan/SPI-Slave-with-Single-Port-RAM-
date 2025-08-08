@@ -85,9 +85,13 @@ This module implements a Serial Peripheral Interface (SPI) slave system with int
 
 ## Screenshots
 
-**SPI Top-Level Architecture**
+**Elaborated Circuit**
 
-![SPI Module Diagram](./images/spi_diagram.png)
+![Elaborated Circuit](./Elaborated%20Circuit.png)
+
+**Synthesized Circuit**
+
+![Synthesized Circuit](./Synthesized%20Circuit.png)
 
 ---
 
